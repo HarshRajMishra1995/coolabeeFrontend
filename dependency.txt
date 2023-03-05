@@ -1,0 +1,11 @@
+For Date Filter ---> dateFns
+For State management ----> Redux
+For state management with React-redux----> react-redux
+for api fetching ---> axios
+For icon ---> muiIcons
+For css ---> sass
+For MaterialUI
+For Grid ---> bootstrap(CDN)
+Form validation ---> formik and yup
+Table ----> ReactTables
+Toast Notification ----> react-toastify
